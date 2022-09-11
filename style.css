@@ -1,0 +1,22 @@
+@import url("styles.css/header.css");
+@import url("styles.css/cabecalho.css");
+@import url("styles.css/metricas.css");
+@import url("styles.css/emprego.css");
+@import url("styles.css/comentario.css");
+@import url("styles.css/footer.css");
+:root { 
+    --branco:#FFFFFF;
+    --cinza-letra: #667085;
+    --vermelho:#8E2424;
+    --preto-azulado:#101828;
+    --cinza-escuro:#3A404E;
+    --fonte-principal: "Inter";
+  
+}
+
+body { 
+    font-size: 16px;
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+}
+

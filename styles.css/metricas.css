@@ -1,0 +1,30 @@
+.metricas {
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr 1fr;
+    column-gap: 40px;
+    align-content: center;
+    width: 85%;
+    margin: auto;
+    font-family: var(--fonte-principal);
+
+}
+
+.metricas h2 {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+    padding: .3em 0;
+}
+
+.metricas h3 {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--preto-azulado);
+    padding: .3em 0;
+}
+
+.metricas p {
+    color: var(--cinza-letra);
+    margin-top: 1vw;
+    line-height: 24px;
+}

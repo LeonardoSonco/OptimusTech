@@ -1,0 +1,66 @@
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 15px;
+
+}
+
+.menu__logo{
+    display: flex;
+    align-items: center;
+}
+
+.menu__titulo{
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza-escuro);
+   
+}
+
+.menu__imagem{
+    padding: 5px;
+    
+}
+
+.menu__opcoes {
+    display: flex;
+    margin-right: 10vw;
+}
+
+.menu__link, .menu__login-entrar{
+    padding: 20px;
+    text-decoration: none;
+    color: var(--cinza-letra);
+    font-weight: 500;
+}
+
+.menu__login{
+    font-weight: 500;
+}
+
+.menu__login-entrar{
+    color: var(--cinza-letra);
+    text-decoration: none;
+}
+.menu__login-entrar:hover{
+    font-size: 20px;
+    transition: 0.5s all;
+    transform: scale(1.05); 
+}
+
+.menu__login-cadastrar{
+    text-decoration: none;
+    background-color: var(--vermelho);
+    color: var(--branco);
+    border-radius: 12px;
+    padding: 15px 20px;
+}
+
+.menu__login-cadastrar:hover{
+    transition: 0.5s all; 
+    padding: 20px 25px;
+    font-size: 18px;
+    transform: scale(1.02);
+}

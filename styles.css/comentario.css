@@ -1,0 +1,35 @@
+.comentarios{
+    display: block;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    text-align: center;
+    margin: 0 112px;
+    padding: 3vw;
+  
+}
+
+.comentarios__titulo{
+    font-size: 14px;
+    font-weight: 600;
+    color:#8E2424;
+    padding: 1.5vw 0 2vw 0;
+}
+
+.comentarios__descricao{
+    font-size: 36px;
+    font-weight: 500;
+    color: #101828;
+    padding-bottom: 2vw;
+    margin: 0 5vw;
+
+}
+
+.comentarios__nome{
+    font-weight: 500;
+    padding: 20px 0 0.5vw 0;
+}
+
+.comentarios__profissao{
+    color: #667085;
+    font-size: 14px;
+}

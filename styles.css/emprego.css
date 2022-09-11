@@ -1,0 +1,36 @@
+.emprego { 
+    display: block;
+    grid-template: 1fr;
+    justify-items: flex-start;
+    margin: 0 366px;
+}
+
+.emprego h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 2vw;
+}
+
+.emprego__subtitulo-software{
+    margin-top: 6vw;
+}
+
+.vaga {
+    border: 1px solid #EAECF0;
+    border-radius: 12px;
+    padding: 1.5vw 3vw 1.5vw 1.5vw;
+    margin-bottom: 25px;
+}
+
+.vaga__titulo {
+    font-size: 18px;
+    font-weight: 500;
+   
+    
+}
+
+.vaga__info{
+    font-weight: 500;
+    color: var(--cinza-letra);
+    margin-top: 4vw;
+}
