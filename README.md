@@ -1,1 +1,1 @@
-Página criada com o intuito de aperfeiçoar minhas habilidade com Html e Css, design da página foi disponibilizado pelo desafio 7daysofcode, onde foi passado o link do figma para realização da prática.
+Página criada com o intuito de aperfeiçoar minhas habilidade com Html e Css, design da página foi disponibilizado pelo desafio 7daysofcode, onde foi passado o link do figma para realização da prática..
